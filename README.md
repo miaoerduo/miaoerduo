@@ -11,4 +11,4 @@
 - 💖 兴趣: 代码 和 画画
 - 💤 梦想: Coding到退休
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoerduo&layout=compact&theme=radical&hide=html,javascript,css,vue" alt="logo" width="400" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoerduo&layout=compact&theme=radical&hide=html,javascript,css,vue" alt="logo" width="400" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
